@@ -22,7 +22,7 @@ In approaching this task, you are encouraged to first of all simplify the proble
 
 The following additional materials available to you:
 - A zip file containing the Webots simulator world and a template e-puck controller (<a href="https://github.com/paulodowd/Webots_2021/tree/master/WebotsWorld">Github Page</a>, <a href="https://github.com/paulodowd/Webots_2021/raw/master/WebotsWorld/Webots_Labs.zip">Download Link</a>).
-- The original .svg file used for the simulated arena floor, which you can modify to produce your own task environments (<a href="https://github.com/paulodowd/Webots_2021/tree/master/WebotsFloor">Github Page</a>, <a href="https://github.com/paulodowd/Webots/blob/maaster/WebotsFloor/test_floor.svg">Download Link</a>).  <a href="https://inkscape.org/">Inkscape</a> is a free and accessible svg graphics editor.
+- The original .svg file used for the simulated arena floor, which you can modify to produce your own task environments (<a href="https://github.com/paulodowd/Webots_2021/tree/master/WebotsFloor">Github Page</a>, <a href="https://github.com/paulodowd/Webots/blob/master/WebotsFloor/test_floor.svg">Download Link</a>).  <a href="https://inkscape.org/">Inkscape</a> is a free and accessible svg graphics editor.
 
 # Labsheets
 
