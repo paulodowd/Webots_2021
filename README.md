@@ -40,8 +40,6 @@ These labsheets will not provide you will the final solution for the Line Follow
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/Webots_2021/blob/master/WLabsheets/L5_Odometry.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/Webots_2021/blob/master/WLabsheets/L5_Odometry.ipynb)  Labsheet 5: Odometry
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/Webots_2021/blob/master/WLabsheets/L0_Webots_GettingStarted.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/Webots_2021/blob/master/WLabsheets/L0_Webots_GettingStarted.ipynb) Labsheet 6: PID 
-
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/Webots_2021/blob/master/WLabsheets/L7_Mapping.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/Webots_2021/blob/master/WLabsheets/L7_Mapping.ipynb)  Labsheet 7: Mapping 
 
 
